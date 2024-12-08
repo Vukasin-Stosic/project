@@ -23,7 +23,7 @@ A PHP-based application designed to simplify appointment scheduling and patient 
 ## 🧰 Tech Stack
 
 - **Language**: PHP
-- **Database**: MySQL (or your preferred relational database)
+- **Database**: MySQL
 - **Architecture**: Object-Oriented Programming (OOP)
 - **Styling**: CSS
 
