@@ -46,5 +46,5 @@ Ensure you have the following installed:
 ![Appointments Page](assets/screenshots/appointments-page.png "View of the Appointments Page")
 
 ### Patients Page
-![Patients Page](assets/scteenshots/patients-page.png "View of the Patients Page")
+![Patients Page](assets/screenshots/patients-page.png "View of the Patients Page")
 
