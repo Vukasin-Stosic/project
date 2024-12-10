@@ -38,7 +38,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/doctor-scheduling-app.git
+   git clone https://github.com/Vukasin-Stosic/scheduling_app.git
 
 ## 🖼 Screenshots/Demo
 
